@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("APIsAndJSON")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e60ff339a0b8a4b46bf14ae2502930eb1e765f9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b7a7a295eb952d5e02a63719c8a3bc53b1a319e")]
 [assembly: System.Reflection.AssemblyProductAttribute("APIsAndJSON")]
 [assembly: System.Reflection.AssemblyTitleAttribute("APIsAndJSON")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
