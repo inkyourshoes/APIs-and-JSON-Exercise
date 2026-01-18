@@ -12,7 +12,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="bin\Debug\net9.0\appsettings.json" />
     <None Include="bin\Debug\net9.0\key.txt" />
+    <None Include="obj\appsettings.json" />
   </ItemGroup>
 
 </Project>

@@ -7,7 +7,7 @@ using Newtonsoft.Json.Linq;
 
 namespace APIsAndJSON
 {
-    internal class RonVSKanyeAPI
+    internal static class RonVSKanyeAPI
     {
         public static void KanyeQuote()
         {
